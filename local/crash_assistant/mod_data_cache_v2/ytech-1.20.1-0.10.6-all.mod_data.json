@@ -1,0 +1,1 @@
+{"jarName":"ytech-1.20.1-0.10.6-all.jar","modId":"ytech","version":"1.20.1-0.10.6","mixinConfigs":["mixins.ytech.refmap.json","mixins.ytech.json"],"jarJarMods":[{"jarName":"objenesis-3.4.jar","mixinConfigs":[],"jarJarMods":[],"pathFromJarJar":"/META-INF/jarjar/"}]}

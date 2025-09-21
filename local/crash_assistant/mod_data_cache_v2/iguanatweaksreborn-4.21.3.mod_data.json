@@ -1,0 +1,1 @@
+{"jarName":"iguanatweaksreborn-4.21.3.jar","modId":"iguanatweaksreborn","version":"4.21.3","mixinConfigs":["mixins.iguanatweaksreborn.json","mixins.iguanatweaksreborn.refmap.json"],"jarJarMods":[{"jarName":"EvalEx-3.5.0.jar","mixinConfigs":[],"jarJarMods":[],"pathFromJarJar":"/META-INF/jarjar/"}]}

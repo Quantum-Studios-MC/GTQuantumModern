@@ -1,0 +1,64 @@
+[21:33:35] [INIT] KubeJS 2001.6.5-build.16; MC 2001 forge
+[21:33:35] [INIT] Loaded plugins:
+[21:33:35] [INIT] - dev.latvian.mods.kubejs.forge.BuiltinKubeJSForgePlugin
+[21:33:35] [INIT] - dev.latvian.mods.kubejs.forge.BuiltinKubeJSForgeClientPlugin
+[21:33:35] [INIT] - com.lowdragmc.lowdraglib.kjs.LDLibKubeJSPlugin
+[21:33:35] [INIT] - com.yanny.ytech.compatibility.KubeJsCompatibility
+[21:33:35] [INIT] - com.lowdragmc.mbd2.integration.kubejs.MBDKubeJSPlugin
+[21:33:35] [INIT] - com.gregtechceu.gtceu.integration.kjs.GregTechKubeJSPlugin
+[21:33:36] [INFO] Loaded script server_scripts:exported_recipes.js in 0.002 s
+[21:33:36] [INFO] Loaded script server_scripts:moveallveins.js in 0.001 s
+[21:33:36] [INFO] Loaded script server_scripts:recipes/magitech/menril_recipes.js in 0.001 s
+[21:33:36] [INFO] Loaded script server_scripts:tag_unifications.js in 0.001 s
+[21:33:36] [INFO] Loaded 4/4 KubeJS server scripts in 0.019 s with 0 errors and 0 warnings
+[21:33:36] [INFO] Scripts loaded
+[21:33:36] [INFO] Initializing recipe event...
+[21:33:37] [INFO] [minecraft:item] Found 4644 tags, added 3 objects, removed 0 objects
+[21:33:39] [INFO] Processing recipes...
+[21:33:39] [WARN] Failed to parse recipe 'nukacraft:rust_hoe[minecraft:crafting_shaped]'! Falling back to vanilla: ItemStack 'result' can't be empty!
+[21:33:39] [WARN] Failed to parse recipe 'nukacraft:rust_pickaxe[minecraft:crafting_shaped]'! Falling back to vanilla: ItemStack 'result' can't be empty!
+[21:33:40] [WARN] Failed to parse recipe 'nukacraft:fertilizer[minecraft:crafting_shaped]'! Falling back to vanilla: ItemStack 'result' can't be empty!
+[21:33:41] [INFO] Found 38338 recipes in 1.964 s
+[21:33:41] [INFO] Posted recipe events in 494.8 ms
+[21:33:43] [INFO] Added 5 recipes, removed 3 recipes, modified 260 recipes, with 0 failed recipes in 2.127 s
+[21:33:44] [INFO] moveallveins.js#3: Modifying vein: gtceu:sulfur_vein
+[21:33:44] [INFO] moveallveins.js#3: Modifying vein: gtceu:iron_vein
+[21:33:44] [INFO] moveallveins.js#3: Modifying vein: gtceu:copper_vein
+[21:33:44] [INFO] moveallveins.js#3: Modifying vein: gtceu:certus_quartz
+[21:33:44] [INFO] moveallveins.js#3: Modifying vein: gtceu:redstone_vein_ow
+[21:33:44] [INFO] moveallveins.js#3: Modifying vein: gtceu:tetrahedrite_vein
+[21:33:44] [INFO] moveallveins.js#3: Modifying vein: gtceu:beryllium_vein
+[21:33:44] [INFO] moveallveins.js#3: Modifying vein: gtceu:oilsands_vein
+[21:33:44] [INFO] moveallveins.js#3: Modifying vein: gtceu:bauxite_vein_end
+[21:33:44] [INFO] moveallveins.js#3: Modifying vein: gtceu:manganese_vein
+[21:33:44] [INFO] moveallveins.js#3: Modifying vein: gtceu:garnet_tin_vein
+[21:33:44] [INFO] moveallveins.js#3: Modifying vein: gtceu:sheldonite_vein
+[21:33:44] [INFO] moveallveins.js#3: Modifying vein: gtceu:garnet_vein
+[21:33:44] [INFO] moveallveins.js#3: Modifying vein: gtceu:lapis_vein
+[21:33:44] [INFO] moveallveins.js#3: Modifying vein: gtceu:saltpeter_vein
+[21:33:44] [INFO] moveallveins.js#3: Modifying vein: gtceu:apatite_vein
+[21:33:44] [INFO] moveallveins.js#3: Modifying vein: gtceu:pitchblende_vein_end
+[21:33:44] [INFO] moveallveins.js#3: Modifying vein: gtceu:mineral_sand_vein
+[21:33:44] [INFO] moveallveins.js#3: Modifying vein: gtceu:galena_vein
+[21:33:44] [INFO] moveallveins.js#3: Modifying vein: gtceu:manganese_vein_ow
+[21:33:44] [INFO] moveallveins.js#3: Modifying vein: gtceu:scheelite_vein
+[21:33:44] [INFO] moveallveins.js#3: Modifying vein: gtceu:magnetite_vein_end
+[21:33:44] [INFO] moveallveins.js#3: Modifying vein: gtceu:monazite_vein
+[21:33:44] [INFO] moveallveins.js#3: Modifying vein: gtceu:olivine_vein
+[21:33:44] [INFO] moveallveins.js#3: Modifying vein: gtceu:coal_vein
+[21:33:44] [INFO] moveallveins.js#3: Modifying vein: gtceu:mica_vein
+[21:33:44] [INFO] moveallveins.js#3: Modifying vein: gtceu:nether_quartz_vein
+[21:33:44] [INFO] moveallveins.js#3: Modifying vein: gtceu:salts_vein
+[21:33:44] [INFO] moveallveins.js#3: Modifying vein: gtceu:topaz_vein
+[21:33:44] [INFO] moveallveins.js#3: Modifying vein: gtceu:magnetite_vein_ow
+[21:33:44] [INFO] moveallveins.js#3: Modifying vein: gtceu:diamond_vein
+[21:33:44] [INFO] moveallveins.js#3: Modifying vein: gtceu:banded_iron_vein
+[21:33:44] [INFO] moveallveins.js#3: Modifying vein: gtceu:cassiterite_vein
+[21:33:44] [INFO] moveallveins.js#3: Modifying vein: gtceu:copper_tin_vein
+[21:33:44] [INFO] moveallveins.js#3: Modifying vein: gtceu:redstone_vein
+[21:33:44] [INFO] moveallveins.js#3: Modifying vein: gtceu:nickel_vein
+[21:33:44] [INFO] moveallveins.js#3: Modifying vein: gtceu:molybdenum_vein
+[21:33:44] [INFO] moveallveins.js#3: Modifying vein: gtceu:naquadah_vein
+[21:33:44] [INFO] moveallveins.js#3: Modifying vein: gtceu:sapphire_vein
+[21:33:44] [INFO] moveallveins.js#3: Modifying vein: gtceu:lubricant_vein
+[21:33:46] [INFO] Server resource reload complete!

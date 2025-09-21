@@ -1,0 +1,20 @@
+[21:31:35.899][INFO][CraftTweaker-EarlyInit]: CraftTweaker is running on a Minecraft 1.20.1 production client modded with platform Forge
+[21:31:35.955][INFO][CraftTweaker-EarlyInit]: Successfully injected RecipeFS file system
+[21:31:36.097][INFO][CraftTweaker-Plugins]: Successfully identified and loaded plugin crafttweaker:builtin
+[21:31:36.100][INFO][CraftTweaker-Plugins]: Successfully identified and loaded plugin crafttweaker:builtin_forge
+[21:31:38.651][INFO][CraftTweaker]: The following mods have explicit CraftTweaker support through the default plugin:
+[21:31:38.654][INFO][CraftTweaker]: - 'crafttweaker' at version '14.0.59'
+[21:31:50.382][INFO][CraftTweaker-ZenCode]: Started loading scripts for loader 'initialize'
+[21:31:50.907][INFO][CraftTweaker-ZenCode]: Compiling and executing scripts
+[21:31:50.970][INFO][CraftTweaker-ZenCode]: Successfully initialized modules [crafttweaker, expansions]
+[21:31:51.130][INFO][CraftTweaker-ZenCode]: Execution for loader 'initialize' completed successfully
+[21:33:38.764][INFO][CraftTweaker-ZenCode]: Started loading scripts for loader 'tags'
+[21:33:38.788][INFO][CraftTweaker-ZenCode]: Compiling and executing scripts
+[21:33:38.805][INFO][CraftTweaker-ZenCode]: Successfully initialized modules [crafttweaker, expansions]
+[21:33:38.815][INFO][CraftTweaker-ZenCode]: Execution for loader 'tags' completed successfully
+[21:33:44.218][INFO][CraftTweaker]: CraftTweaker reload starting!
+[21:33:44.238][INFO][CraftTweaker-ZenCode]: Started loading scripts for loader 'crafttweaker'
+[21:33:44.259][INFO][CraftTweaker-ZenCode]: Compiling and executing scripts
+[21:33:44.847][INFO][CraftTweaker-ZenCode]: Successfully initialized modules [crafttweaker, expansions]
+[21:33:44.859][INFO][CraftTweaker-ZenCode]: Execution for loader 'crafttweaker' completed successfully
+[21:33:44.860][INFO][CraftTweaker]: CraftTweaker reload complete!
