@@ -1,0 +1,12 @@
+{
+  "type": "tconstruct:melting",
+  "ingredient": {
+    "item": "gtceu:raw_tin_sludge"
+  },
+  "result": {
+    "amount": 144,
+    "fluid": "gtceu:tin"
+  },
+  "temperature": 800,
+  "time": 60
+}
