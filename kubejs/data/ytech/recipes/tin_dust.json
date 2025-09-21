@@ -1,0 +1,13 @@
+{
+  "type": "ytech:hammering",
+  "hitCount": 4,
+  "ingredient": {
+    "item": "gtceu:raw_tin_sludge"
+  },
+  "result": {
+    "item": "gtceu:tin_dust"
+  },
+  "tool": {
+    "tag": "forge:hammers"
+  }
+}

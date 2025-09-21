@@ -1,0 +1,13 @@
+{
+  "type": "ytech:hammering",
+  "hitCount": 4,
+  "ingredient": {
+    "item": "kubejs:crude_tin_sponge"
+  },
+  "result": {
+    "item": "gtceu:tin_ingot"
+  },
+  "tool": {
+    "tag": "forge:hammers"
+  }
+}

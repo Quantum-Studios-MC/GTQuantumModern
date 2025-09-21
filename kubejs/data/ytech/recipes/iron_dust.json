@@ -1,0 +1,13 @@
+{
+  "type": "ytech:hammering",
+  "hitCount": 4,
+  "ingredient": {
+    "item": "gtceu:raw_iron_sludge"
+  },
+  "result": {
+    "item": "gtceu:iron_dust"
+  },
+  "tool": {
+    "tag": "forge:hammers"
+  }
+}
