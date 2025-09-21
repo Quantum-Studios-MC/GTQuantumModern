@@ -1,0 +1,8 @@
+  "type": "forge:add_features",
+  "biomes": ["nukacraft:poison_valley", "nukacraft:savage_divide", "nukacraft:ash_heap", "nukacraft:cranberry_bog"],
+  "features": [
+    "kubejs:skeleton_skull_spawning",
+    "kubejs:deer_skull_spawning"
+  ],
+  "step": "vegetal_decoration"
+}

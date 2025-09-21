@@ -1,0 +1,13 @@
+{
+  "type": "ytech:hammering",
+  "hitCount": 4,
+  "ingredient": {
+    "item": "kubejs:blister_copper"
+  },
+  "result": {
+    "item": "minecraft:copper_ingot"
+  },
+  "tool": {
+    "tag": "forge:hammers"
+  }
+}

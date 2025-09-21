@@ -1,0 +1,13 @@
+{
+  "type": "ytech:smelting",
+  "ingredient": {
+    "item": "nukacraft:ash_stone"
+  },
+  "inputCount": 1,
+  "minTemp": 750,
+  "mold": [],
+  "result": {
+    "item": "gtceu:ash_stone_ingot"
+  },
+  "smeltingTime": 200
+}

@@ -1,0 +1,37 @@
+{
+  "type": "ytech:workspace_crafting",
+  "key": {
+    "C": {
+      "item": "nukacraft:ash_stone"
+        },
+    "A": {
+      "item": "nukacraft:dwoodlog"
+    },
+    "B": {
+      "item": "ytech:clay_bucket"
+    }
+  },
+  "pattern": {
+    "bottom": [
+      "A A",
+      "   ",
+      "A A"
+    ],
+    "middle": [
+      "ACA",
+      "CBC",
+      "ACA"
+    ],
+    "top": [
+      "A A",
+      "   ",
+      "A A"
+    ]
+  },
+  "result": {
+    "item": "mbd2:extractor_crude"
+  },
+  "tool": {
+    "tag": "forge:hammers"
+  }
+}

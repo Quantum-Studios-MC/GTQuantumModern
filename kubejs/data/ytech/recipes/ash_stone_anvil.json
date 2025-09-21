@@ -1,0 +1,31 @@
+{
+  "type": "ytech:workspace_crafting",
+  "key": {
+    "B": {
+      "item": "nukacraft:ash_stone"
+    }
+  },
+  "pattern": {
+    "bottom": [
+      " B ",
+      "BBB",
+      " B "
+    ],
+    "middle": [
+      "   ",
+      " B ",
+      "   "
+    ],
+    "top": [
+      "BBB",
+      "BBB",
+      "BBB"
+    ]
+  },
+  "result": {
+    "item": "ytech:bronze_anvil"
+  },
+  "tool": {
+    "tag": "forge:hammers"
+  }
+}

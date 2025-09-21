@@ -1,0 +1,20 @@
+{
+  "type": "ytech:alloying",
+  "ingredient1": {
+    "count": 1,
+    "ingredient": {
+      "item": "gtceu:copper_dust"
+    }
+  },
+  "ingredient2": {
+    "count": 1,
+    "ingredient": {
+      "item": "minecraft:charcoal"
+    }
+  },
+  "minTemp": 900,
+  "result": {
+    "item": "kubejs:blister_copper"
+  },
+  "smeltingTime": 200
+}
