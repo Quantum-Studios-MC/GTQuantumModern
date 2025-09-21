@@ -1,0 +1,12 @@
+{
+  "type": "tconstruct:melting",
+  "ingredient": {
+    "item": "gtceu:raw_iron_sludge"
+  },
+  "result": {
+    "amount": 144,
+    "fluid": "gtceu:iron"
+  },
+  "temperature": 800,
+  "time": 60
+}
